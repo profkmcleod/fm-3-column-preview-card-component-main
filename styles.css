@@ -144,7 +144,8 @@ footer {
     }
 
     section {
-        padding: 9%;
+        padding: 4% 9%;
+        outline: 1px solid green;
     }
 
     p {
